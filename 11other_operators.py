@@ -1,5 +1,5 @@
 # Python operators 
-# Boolean operators are used in combination with other conditional statements and operators
+# These operators are used in combination with other conditional statements and operators
 
 # Membership Operators
 # in 
