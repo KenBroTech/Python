@@ -8,6 +8,8 @@
 
 # Pandas
 
+# Matplotlib
+
 # QRCode Application
 
 # Build an AudioBook in Python
